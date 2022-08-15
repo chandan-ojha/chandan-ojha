@@ -74,6 +74,9 @@
 <a title="MongoDB" href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 </a>
+<a title="Oracle" href="https://www.oracle.com/database/">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</a>
 
 <h3>Tools Using</h3>
 
