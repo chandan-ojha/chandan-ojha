@@ -9,7 +9,7 @@
 
 <h3>Programming Languages </h3>
 <p>
-  <a title="PHP" href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank" title="PHP">
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
   </a>
   <a title="JavaScript" href="https://www.javascript.com/" target="_blank">
@@ -71,7 +71,7 @@
 <a title="MYSQL" href="https://www.mysql.com/" target="_blank">
     <img src="http://img.shields.io/badge/-MYSQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
 </a>
-<a title="SQLite" href="https://www.sqlite.org/index.html" target="_blank">
+<a title="MongoDB" href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
 </a>
 
