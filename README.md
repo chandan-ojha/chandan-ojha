@@ -1,8 +1,8 @@
 
 # Chandan Ojha's Status
 <p>
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=Chandan-Ojha&theme=darcula&show_icons=true&line_height=27">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Ojha&theme=darcula">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=Chandan-Ojha&theme=merko&show_icons=true&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Ojha&theme=merko">
 </p>
 
 <h2>My Tech Stack </h2>
