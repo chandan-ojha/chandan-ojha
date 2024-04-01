@@ -69,8 +69,8 @@ I am a passionate Software Developer with a huge love for TailwindCSS, JavaScrip
 <b>⚡ Github Stats</b>
 
 <p>
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=chandan-ojha&card_width=330&theme=radical">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-ojha&layout=compact&langs_count=8&card_width=330&theme=radical">
+  <img title="github stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-ojha&card_width=330&theme=radical">
+  <img title="github stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandan-ojha&layout=compact&langs_count=8&card_width=330&theme=radical">
 </p>
 
 <b>&#128200; Competitive Programming</b>
