@@ -60,7 +60,7 @@ I am a passionate Software Developer with a huge love for PHP, Laravel, RDBMS, J
        <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm"/>
    </a>
    <a title="Postman" href="https://www.postman.com">
-       <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman"/>  
+       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>  
    </a>
 </p>
 
