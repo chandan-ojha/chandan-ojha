@@ -76,8 +76,8 @@ I am a passionate Software Developer with a huge love for PHP, Laravel, RDBMS, J
 <b>&#128200; Competitive Programming</b>
 
 <p float="left">
-    <img title="leetcode stats" height=200 align="center" src="https://leetcard.jacoblin.cool/chandan_ojha?theme=light,unicorn" />
-    <!-- <img title="codeforces stats" height=200 align="center" src="https://raw.githubusercontent.com/chandanojha619/cf-stats/main/output/light_card.svg" /> -->
+    <img title="leetcode stats" height=200 align="center" src="https://leetcard.jacoblin.cool/chandan_ojha?theme=dark" />
+    <img title="codeforces stats" height=200 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=chandanojha619&theme=dark" />
 </p>
 
 #### Connect With Me
